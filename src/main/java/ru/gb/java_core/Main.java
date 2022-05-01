@@ -49,5 +49,7 @@ public class Main {
 
         book.add("Petrov", "89261000107");
 
+        System.out.println("Найденные номера: " + book.get("Petrov"));
+
     }
 }
